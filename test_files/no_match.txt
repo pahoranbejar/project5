@@ -1,0 +1,17 @@
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: qwerty
+No items match that query
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 3

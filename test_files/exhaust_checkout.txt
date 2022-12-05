@@ -1,0 +1,55 @@
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: v
+
+Which item do you want to add to your cart?
+(0) Avocado (Haas avocado (each)) @ $1.0 (2 in stock)
+Option: 0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: v
+
+Which item do you want to add to your cart?
+(0) Avocado (Haas avocado (each)) @ $1.0 (1 in stock)
+Option: 0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: v
+No items match that query
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 2
+
+Avocado (Haas avocado (each)) x 2 @ $1.0 = $2.0
+  Total: $2.0
+
+Confirm purchase of $2.0? (y/n): y
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 3

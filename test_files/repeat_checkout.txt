@@ -1,0 +1,61 @@
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: t
+
+Which item do you want to add to your cart?
+(0) Tomato (Roma tomato (each)) @ $0.8 (5 in stock)
+(1) Salsa (16 oz mild tomato salsa) @ $2.5 (7 in stock)
+(2) Tuna (8 oz can of tuna in water) @ $0.75 (11 in stock)
+(3) Pepper (Orange sweet bell pepper (each)) @ $1.0 (1 in stock)
+(4) Watermelon (Seedless watermelon (each)) @ $5.25 (2 in stock)
+Option: 0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 2
+
+Tomato (Roma tomato (each)) x 1 @ $0.8 = $0.8
+  Total: $0.8
+
+Confirm purchase of $0.8? (y/n): y
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: p
+
+Which item do you want to add to your cart?
+(0) Pepper (Orange sweet bell pepper (each)) @ $1.0 (1 in stock)
+Option: 0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 2
+
+Pepper (Orange sweet bell pepper (each)) x 1 @ $1.0 = $1.0
+  Total: $1.0
+
+Confirm purchase of $1.0? (y/n): y
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 3

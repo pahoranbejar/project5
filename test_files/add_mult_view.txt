@@ -1,0 +1,85 @@
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: n
+
+Which item do you want to add to your cart?
+(0) Beans (1/2 lb. dry black beans) @ $1.5 (8 in stock)
+(1) Rice (1 lb. dry jasmine rice) @ $1.0 (10 in stock)
+(2) Tuna (8 oz can of tuna in water) @ $0.75 (11 in stock)
+(3) Pepper (Orange sweet bell pepper (each)) @ $1.0 (1 in stock)
+(4) Watermelon (Seedless watermelon (each)) @ $5.25 (2 in stock)
+Option: 1
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 1
+
+Rice (1 lb. dry jasmine rice) x 1 @ $1.0 = $1.0
+  Total: $1.0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: g
+
+Which item do you want to add to your cart?
+(0) Pepper (Orange sweet bell pepper (each)) @ $1.0 (1 in stock)
+Option: 0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 1
+
+Rice (1 lb. dry jasmine rice) x 1 @ $1.0 = $1.0
+Pepper (Orange sweet bell pepper (each)) x 1 @ $1.0 = $1.0
+  Total: $2.0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: 1
+
+Which item do you want to add to your cart?
+(0) Beans (1/2 lb. dry black beans) @ $1.5 (8 in stock)
+(1) Rice (1 lb. dry jasmine rice) @ $1.0 (9 in stock)
+(2) Salsa (16 oz mild tomato salsa) @ $2.5 (7 in stock)
+Option: 2
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 1
+
+Rice (1 lb. dry jasmine rice) x 1 @ $1.0 = $1.0
+Pepper (Orange sweet bell pepper (each)) x 1 @ $1.0 = $1.0
+Salsa (16 oz mild tomato salsa) x 1 @ $2.5 = $2.5
+  Total: $4.5
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 3

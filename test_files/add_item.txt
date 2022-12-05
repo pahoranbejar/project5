@@ -1,0 +1,20 @@
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: bean
+
+Which item do you want to add to your cart?
+(0) Beans (1/2 lb. dry black beans) @ $1.5 (8 in stock)
+Option: 0
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 3

@@ -1,0 +1,37 @@
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 0
+
+Item search term: r
+
+Which item do you want to add to your cart?
+(0) Beans (1/2 lb. dry black beans) @ $1.5 (8 in stock)
+(1) Rice (1 lb. dry jasmine rice) @ $1.0 (10 in stock)
+(2) Tomato (Roma tomato (each)) @ $0.8 (5 in stock)
+(3) Tuna (8 oz can of tuna in water) @ $0.75 (11 in stock)
+(4) Pepper (Orange sweet bell pepper (each)) @ $1.0 (1 in stock)
+(5) Watermelon (Seedless watermelon (each)) @ $5.25 (2 in stock)
+Option: 3
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 2
+
+Tuna (8 oz can of tuna in water) x 1 @ $0.75 = $0.75
+  Total: $0.75
+
+Confirm purchase of $0.75? (y/n): y
+
+What do you want to do?
+(0) Add an item
+(1) View cart
+(2) Checkout
+(3) Quit
+Option: 3
